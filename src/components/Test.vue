@@ -1,12 +1,7 @@
-<template>
-    测试组件aaa
-</template>
+<template>测试组件aaa</template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
-<style>
-</style>
+<style></style>
